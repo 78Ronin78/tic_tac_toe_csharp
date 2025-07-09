@@ -1,0 +1,17 @@
+# Папки и файлы, генерируемые IDE
+/.vs/
+/packages/
+/bin/
+/obj/
+# Файлы конфигурации
+*.suo
+*.user
+*.csproj.user
+*.db
+*.dbml
+*.scc
+# Файлы, специфичные для Windows
+Thumbs.db
+.DS_Store
+# Папки, содержащие временные файлы
+*_ReSharper.*
